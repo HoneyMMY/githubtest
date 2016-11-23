@@ -1,0 +1,1 @@
+E:\MyCSharpProjects\GitHubTest\GitHubOperation\bin\Debug\GitHubOperation.exe.config
